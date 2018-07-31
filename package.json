@@ -1,7 +1,7 @@
 {
 	"name": "@webacad/ng-mat-quill",
 	"description": "Quill editor integration for angular material forms",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"keywords": [
 		"angular",
 		"forms",
