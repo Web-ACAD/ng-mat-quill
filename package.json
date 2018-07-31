@@ -23,7 +23,7 @@
 		"@angular/core": "^5.0",
 		"@angular/forms": "^5.0",
 		"@angular/material": "^5.0",
-		"@webacad/ng-quill": "^0.0.1",
+		"@webacad/ng-quill": "^0.1.0",
 		"quill": "*",
 		"rxjs": "^5.5.0"
 	},
