@@ -6,27 +6,28 @@
 [Quill](https://quilljs.com/) editor integration for angular material forms. Based on 
 [@webacad/ng-quill](https://github.com/Web-ACAD/ng-quill).
 
+## Dependencies
+
+* `@angular/animations`
+* `@angular/cdk`
+* `@angular/common`
+* `@angular/core`
+* `@angular/forms`
+* `@angular/material`
+* `@angular/platform-browser`
+* `@webacad/ng-quill`
+* `quill`
+* `rxjs`
+
 ## Installation
 
 ```bash
-$ npm install --save @angular/common@^5.0
-$ npm install --save @angular/core@^5.0
-$ npm install --save @angular/forms@^5.0
-$ npm install --save quill
-$ npm install --save rxjs
-$ npm install --save @webacad/ng-quill@^0.0.1
 $ npm install --save @webacad/ng-mat-quill
 ```
 
 or with yarn
 
 ```bash
-$ yarn add @angular/common@^5.0
-$ yarn add @angular/core@^5.0
-$ yarn add @angular/forms@^5.0
-$ yarn add quill
-$ yarn add rxjs
-$ yarn add @webacad/ng-quill@^0.0.1
 $ yarn add @webacad/ng-mat-quill
 ```
 
